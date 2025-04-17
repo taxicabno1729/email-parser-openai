@@ -42,3 +42,4 @@ exports/
 Thumbs.db 
 
 backup_old_app/
+cleanup.sh
